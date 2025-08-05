@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋 I'm Vignesh Ambeeru — a passionate CS grad student and software engineer</h2>
+<h2 align="left">Hi 👋 I'm Vignesh Ambeeru — a passionate software engineer</h2>
 
 ---
 
