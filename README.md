@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋 I'm Vignesh Ambeeru — a passionate software engineer</h2>
+<h2 align="left">Hi 👋, I'm Vignesh Ambeeru — Passionate Software Engineer Driving Innovation in Cloud, AI & Scalable Systems</h2>
 
 ---
 
