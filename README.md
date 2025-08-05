@@ -98,10 +98,6 @@
   </a>
 </div>
 
----
-
-### 🐍 Snake Contribution Graph
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ambeeru-Vignesh/Ambeeru-Vignesh/output/snake.svg" alt="Snake animation" />
 </p>
