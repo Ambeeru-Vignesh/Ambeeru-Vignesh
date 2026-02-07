@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Ambeeru-Vignesh">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=Hey+%F0%9F%91%8B%2C+Welcome+to+my+GitHub+Profile!;Building+innovative+solutions+with+passion+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey+%F0%9F%91%8B%2C+Welcome+to+my+GitHub+Profile!;Building+innovative+solutions+with+passion+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
