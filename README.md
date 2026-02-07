@@ -1,103 +1,135 @@
-<h2 align="left">Hi 👋, I'm Vignesh Ambeeru — Passionate Software Engineer Driving Innovation in Cloud, AI & Scalable Systems</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vignesh%20Ambeeru&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Cloud%20%7C%20AI%20%7C%20Scalable%20Systems&descSize=18&descAlignY=52" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ambeeru-Vignesh">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=Hey+%F0%9F%91%8B%2C+Welcome+to+my+GitHub+Profile!;Building+innovative+solutions+with+passion+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ambeeru-Vignesh"><img src="https://komarev.com/ghpvc/?username=Ambeeru-Vignesh&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" /></a>&nbsp;
+  <a href="https://github.com/Ambeeru-Vignesh?tab=followers"><img src="https://img.shields.io/github/followers/Ambeeru-Vignesh?label=Followers&style=for-the-badge&color=blue" alt="Followers" /></a>&nbsp;
+  <a href="https://github.com/Ambeeru-Vignesh?tab=repositories"><img src="https://img.shields.io/github/stars/Ambeeru-Vignesh?label=Stars&style=for-the-badge&color=gold" alt="Stars" /></a>
+</p>
 
 ---
+
+### 🧑‍💻 About Me
+
+```yaml
+name: Vignesh Ambeeru
+role: Software Engineer
+focus:
+  - Cloud Computing & Infrastructure
+  - Artificial Intelligence & ML
+  - Scalable Distributed Systems
+  - Full-Stack Web Development
+currently_learning: Advanced System Design & LLMs
+fun_fact: I debug with coffee ☕ and deploy with confidence 🚀
+```
+
+---
+
+### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ambeeru-Vignesh&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ambeeru-Vignesh&layout=compact&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ambeeru-Vignesh&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD93F9&icon_color=BD93F9&text_color=c9d1d9" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ambeeru-Vignesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=c9d1d9" height="170" />
 </div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ambeeru-Vignesh&theme=tokyonight&hide_border=true&background=0D1117&stroke=BD93F9&ring=BD93F9&fire=FF6E96&currStreakLabel=BD93F9" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ambeeru-Vignesh&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=BD93F9&line=BD93F9&point=FF6E96" width="95%" alt="Activity Graph" />
+</p>
 
 ---
 
-### 💻 Programming Languages
+### 🛠️ Tech Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
-</div>
-
----
-
-### 🌐 Frontend Development
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-</div>
-
----
-
-### 🛠️ Backend Development
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring Boot" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" alt="Kafka" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="Nginx" />
-</div>
-
----
-
-### 🤖 AI & Machine Learning
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="PyTorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="OpenCV" />
-</div>
-
----
-
-### 🗄️ Databases
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="SQLite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="Redis" />
-</div>
+<table align="center">
+<tr>
+<td align="center" width="140"><b>💻 Languages</b></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,java" alt="Languages" />
+</td>
+</tr>
+<tr>
+<td align="center" width="140"><b>🌐 Frontend</b></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="Frontend" />
+</td>
+</tr>
+<tr>
+<td align="center" width="140"><b>⚙️ Backend</b></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,kafka,nginx" alt="Backend" />
+</td>
+</tr>
+<tr>
+<td align="center" width="140"><b>🤖 AI / ML</b></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="AI/ML" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="Pandas" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="45" alt="OpenCV" />
+</td>
+</tr>
+<tr>
+<td align="center" width="140"><b>🗄️ Databases</b></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis" alt="Databases" />
+</td>
+</tr>
+<tr>
+<td align="center" width="140"><b>🚀 DevOps</b></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,jenkins,bash" alt="DevOps" />
+</td>
+</tr>
+<tr>
+<td align="center" width="140"><b>🔥 BaaS</b></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=firebase,heroku" alt="BaaS" />
+</td>
+</tr>
+</table>
 
 ---
 
-### ⚙️ DevOps & Tools
+### 🏆 GitHub Trophies
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="GCP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="30" alt="Jenkins" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="Bash" />
-</div>
-
----
-
-### 🔥 Backend as a Service (BaaS)
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="30" alt="Heroku" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ambeeru-Vignesh&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+</p>
 
 ---
 
 ### 📫 Connect with Me
 
-<div align="left">
+<p align="center">
   <a href="mailto:vigneshambeeru53@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/vignesh-ambeeru/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>&nbsp;
+  <a href="https://github.com/Ambeeru-Vignesh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
-</div>
+</p>
+
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ambeeru-Vignesh/Ambeeru-Vignesh/output/snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 </p>
