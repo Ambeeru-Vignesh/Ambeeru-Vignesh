@@ -35,8 +35,7 @@ fun_fact: I debug with coffee ☕ and deploy with confidence 🚀
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ambeeru-Vignesh&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD93F9&icon_color=BD93F9&text_color=c9d1d9" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ambeeru-Vignesh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BD93F9&text_color=c9d1d9" height="170" />
+
 </div>
 
 <p align="center">
